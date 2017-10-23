@@ -21,7 +21,7 @@ import themoviedb.utils.StringToObjectUtils;
  * Testing web service URL /movie/{movie_id} endpoint for testing the primary
  * information about a movie.
  * 
- * Reference Doc: https://developers.themoviedb.org/3/lists/get-list-details
+ * Reference Doc: https://developers.themoviedb.org/3/movies/get-movie-details
  * 
  * @author mounikaenugala
  * 
